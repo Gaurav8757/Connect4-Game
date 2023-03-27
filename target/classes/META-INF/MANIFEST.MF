@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: com.gaurav.connect4.Main
+
